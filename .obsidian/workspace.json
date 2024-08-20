@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1db292ff65d8f090",
+        "id": "9d4bf3ff3bfb0f91",
         "type": "tabs",
         "children": [
           {
-            "id": "5a607a1a1d0488f0",
+            "id": "62b6cade65023c87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Week 3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0e9cce4c55f8e29d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,9 +139,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0e9cce4c55f8e29d",
+  "active": "62b6cade65023c87",
   "lastOpenFiles": [
     "Week 3.md",
+    "index.md",
     "lib/metadata.json",
     "lib/media/874d8b8e340f75575caa.svg",
     "lib/media/3d6c1bdc4d87cde4de67.svg",
@@ -174,7 +154,6 @@
     "lib/fonts/70cc7ff27245e82ad414.ttf",
     "lib/fonts/535a6cf662596b3bd6a6.woff2",
     "lib/fonts/cbe0ae49c52c920fd563.woff2",
-    "lib/fonts/b5f0f109bc88052d4000.woff2",
-    "index.md"
+    "lib/fonts/b5f0f109bc88052d4000.woff2"
   ]
 }
