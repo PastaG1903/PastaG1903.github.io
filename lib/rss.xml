@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis II]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Thesis II</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 02 Sep 2024 17:06:38 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 02 Sep 2024 17:06:37 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Week 2 (Aug 12 - Aug 16)]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis II]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Thesis II</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 02 Sep 2024 21:47:36 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 02 Sep 2024 21:47:34 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Week 2 (Aug 12 - Aug 16)]]></title><description><![CDATA[ 
  <br><br>PMMA was cut. Molds for bottom layer and bottom layer holes (two separate pieces) were cut with the laser cutter.<br>
 Molds were meant to be used to pour the PDMS and cure it in the shape of the holes to match the holes in the bottom layer.<br><br>Prepared a petri dish with PDMS to then cut it into the shape of the holes and prior to curing in the Water Center, some of the PDMS was poured into the molds made from PDMS.<br>
 After 2 hours, PDMS was not completely cured, and it was decided to leave it overnight. The temperature used was 130°C.<br>
@@ -91,5 +91,37 @@ For the 5000Pa, it is 2.29mm  0.02mm.<br>
 For the 4000Pa, it is 1.69mm  0.01mm.<br>
 For the 3000Pa, it is 1.235mm  0.15mm.<br>
 For the 2000Pa, it is 0.776mm  0.007mm.<br>For the PMMA pieces, a set of trial-and-error experiments should be done to bake the laser cuts as clean as possible<br>As found in one paper, there is an equation that relates the bulge height of the inflated membrane with the pressure accumulated in the chamber. After regression and data analysis to find the right values and coefficients for said equation, the results were not very conclusive. More pictures with pressures ranging from 60mbar to 100mbar are required for a more complete analysis.]]></description><link>Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).html</link><guid isPermaLink="false">Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).md</guid><pubDate>Mon, 02 Sep 2024 00:23:29 GMT</pubDate></item><item><title><![CDATA[Week 5 (Sep 2 - Sep 6)]]></title><description><![CDATA[ 
- <br><br>Today, further cutting tests will be performed to get the bottom layer holes to be as flat as possible, with as minimum residue of melted material as possible. ]]></description><link>Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).html</link><guid isPermaLink="false">Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).md</guid><pubDate>Mon, 02 Sep 2024 16:43:31 GMT</pubDate></item><item><title><![CDATA[Mario's Log for Thesis]]></title><description><![CDATA[ 
+ <br><br>Today, further cutting tests will be performed to get the bottom layer holes to be as flat as possible, with as minimum residue of melted material as possible. <br><br>The equation found relating the pressure inside the chamber and the bulge height of the circular latex membrane was:<br>
+p = C M t h  a + C  t h a<br>
+The expression for the current design is:<br>
+p =  (-1.095)(2.817E10)h + 4(0.7813)(835170.18658)h<br>The next activities to perform as per the weekly meeting today are the following:<br>
+<br>Finish the code by implementing the change in volume in the pneumatic chamber due to the inflation of the membrane.
+
+<br>Relate the bulge height with the volume change.
+<br>Add the volume change to the volume in the pneumatic chamber.
+
+
+<br>Finalize substrate-placing in the device with no leakages.
+
+<br>Find a combination of speed and power of the laser cutter to prevent having melted material on the substrate hole.
+<br>Make a device to test for leakages.
+
+
+<br>Use the finalized version of the code to minimize the amount of sample needed in the device.
+
+<br>Play with geometry parameters and velocity profiles to achieve the same pressures/fluid distance with as less fluid as possible.
+
+
+<br>Build a prototype of the final design with the substrate (with the minimized volume).
+
+<br>Use the simulation results to design and build a device, adding into it the minimal sample volume, and check if results are consistent with simulation.
+
+
+<br>Perform tests on LFA with the Prostate Specific Antigen.
+
+<br>Test antigen, sample pad, test line and control line in a beaker under agitation to see if there is any improvement with respect to standard LFA.
+<br>Build a device with the components of LFA in the device and see if there is any improvement with respect to standard LFA and agitation.
+
+
+]]></description><link>Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).html</link><guid isPermaLink="false">Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).md</guid><pubDate>Mon, 02 Sep 2024 21:47:13 GMT</pubDate></item><item><title><![CDATA[Mario's Log for Thesis]]></title><description><![CDATA[ 
  <br><br>Hello, everyone.<br>This will be where I will be submitting and recording whatever I do everyday for my master's thesis project. More specifically, I will be recording the activities mainly for the experimental part (since the main thing of the theoretical part is code, so that is easier) unless stated otherwise: whenever I make relevant changes in the code (relevant means that it changes the result) I will describe them on the corresponding day.<br>I will be dividing this in weeks and in each week, it will be divided into the different days, including weekends in some situations, in case I just get an idea during those days. Otherwise, it will mainly be composed of Monday - Friday.<br>Ideas, thoughts and/or conclusions from activities will be in italics, as something to take into account for future related activities.<br>Any suggestions in the changes of format or arrangement are welcome.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 27 Aug 2024 15:11:01 GMT</pubDate></item></channel></rss>
