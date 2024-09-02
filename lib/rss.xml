@@ -1,4 +1,4 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis II]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Thesis II</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 29 Aug 2024 19:24:32 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 29 Aug 2024 19:24:30 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Week 2 (Aug 12 - Aug 16)]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thesis II]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Thesis II</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 02 Sep 2024 17:06:38 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 02 Sep 2024 17:06:37 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Week 2 (Aug 12 - Aug 16)]]></title><description><![CDATA[ 
  <br><br>PMMA was cut. Molds for bottom layer and bottom layer holes (two separate pieces) were cut with the laser cutter.<br>
 Molds were meant to be used to pour the PDMS and cure it in the shape of the holes to match the holes in the bottom layer.<br><br>Prepared a petri dish with PDMS to then cut it into the shape of the holes and prior to curing in the Water Center, some of the PDMS was poured into the molds made from PDMS.<br>
 After 2 hours, PDMS was not completely cured, and it was decided to leave it overnight. The temperature used was 130°C.<br>
@@ -40,13 +40,13 @@ Attempting another PDMS batch and pouring PDMS onto the holes to polymerize in t
 <br>Perform a literature review on deformation of membrane with respect to pressure
 <br>Perform experiments to obtain a graph of deformation vs pressure of the current membrane
 <br><br>Attempt to use even smaller sizes of hole in the PMMA. As there is no more curing agent to make a new batch of PDMS, the batch of 2mm thickness will still be used. A 1mm thickness sheet of PMMA might be desirable to have a 1mm portion of the substrate outside the device. This would allow easier retrieval of the substrate. As stated on <a data-href="Week 3 (Aug 19 - Aug 23)" href="Thesis II - 3rd semester/Week 3 (Aug 19 - Aug 23).html" class="internal-link" target="_self" rel="noopener">Week 3 (Aug 19 - Aug 23)</a>, on Tuesday, the smallest hole used for the 2mm thickness PMMA sheet was of 3.8mm and scaled down with a factor of 0.8, giving a hole of approximately 3.04mm in diameter. The same size (3.8mm) will be tested on the 1mm thick sheet and then scaled down. The two initial tests would be with holes of 3.8 and 3.04mm and test intermidiate values if needed. Else, will continue on scaling down.<br>
-It is important that the substrate is nos very difficult to put in the hole. Otherwise, the surface modification can be severely damaged due to the contact with the sheet in the process of inserting the substrate.<br>
+It is important that the substrate is not very difficult to put in the hole. Otherwise, the surface modification can be severely damaged due to the contact with the sheet in the process of inserting the substrate.<br>
 It would be important to, once able to reciprocate without leakage, repeat the chemical reactions, to make sure the substrate actually stays as intact as possible. Two pieces can be used: one for control which will be not put in the device and will undergo FTIR analysis after reactions and another one that will be analyzed after putting in and then pulling out the substrate. This is to compare how much of the modification is maintained.  <br><br>The simulation parameters of the vented and pneumatic chamber have been changed to allow input of width and depth, instead of calculating them from the total volume capacity and the length. The parameters of the different components were changed to match those of the experimental device. These are as follows:<br>
 <br>Vented chamber:
 
 <br>Azimuthal position of outlet: 0 (centered)
 <br>Initial fill level: 1 
-<br>Depth: 540 
+<br>Depth: 540 m
 <br>Width: 15mm
 <br>Length: 15mm
 <br>Distance to center: 12.5mm
@@ -55,7 +55,7 @@ It would be important to, once able to reciprocate without leakage, repeat the c
 <br>Radial channel:
 
 <br>Width: 2mm
-<br>Depth: 40 
+<br>Depth: 40 m
 <br>Inlet radial distance: 27.5mm
 <br>Outlet radial distance: 57.5mm
 <br>Initial fill level: 0
@@ -65,7 +65,7 @@ It would be important to, once able to reciprocate without leakage, repeat the c
 <br>Isoradial channel:
 
 <br>Width: 2mm
-<br>Depth: 40 
+<br>Depth: 40 m
 <br>Length: 21.5mm
 <br>Radius: 55.7mm
 <br>Initial fill level: 0
@@ -77,7 +77,7 @@ It would be important to, once able to reciprocate without leakage, repeat the c
 
 <br>Azimuthal position of inlet: 0 (centered)
 <br>Initial fill level: 0
-<br>Depth: 540 
+<br>Depth: 540 m
 <br>Width: 4mm
 <br>Length: 36mm
 <br>Distance to center: 20.5mm
@@ -86,5 +86,10 @@ It would be important to, once able to reciprocate without leakage, repeat the c
 <br><br>A new testing  design was made for the circular cutters, with circles ranging from 2.8mm and 3.1mm in diameter. Despite the last test results discarded 3.1mm diameter, these new cuts will be made on a 1mm thickness sheet. Perhaps it is worth trying.<br>
 Equations for the change in the membrane were found. So luckily, after experiments today, it will be possible to implement this membrane in the simulation.<br>
 The minimum size in the design for the PDMS pieces was established at 2.8mm for the fitting of the 4mm diameter pieces.<br>
-Images of the balloon inflation were taken and will be thereafter analyzed.]]></description><link>Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).html</link><guid isPermaLink="false">Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).md</guid><pubDate>Thu, 29 Aug 2024 19:23:41 GMT</pubDate></item><item><title><![CDATA[Mario's Log for Thesis]]></title><description><![CDATA[ 
+Images of the balloon inflation were taken and will be thereafter analyzed.<br><br>The bulge height was estimated from the images taken on Thursday.<br>
+For the 5000Pa, it is 2.29mm  0.02mm.<br>
+For the 4000Pa, it is 1.69mm  0.01mm.<br>
+For the 3000Pa, it is 1.235mm  0.15mm.<br>
+For the 2000Pa, it is 0.776mm  0.007mm.<br>For the PMMA pieces, a set of trial-and-error experiments should be done to bake the laser cuts as clean as possible<br>As found in one paper, there is an equation that relates the bulge height of the inflated membrane with the pressure accumulated in the chamber. After regression and data analysis to find the right values and coefficients for said equation, the results were not very conclusive. More pictures with pressures ranging from 60mbar to 100mbar are required for a more complete analysis.]]></description><link>Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).html</link><guid isPermaLink="false">Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).md</guid><pubDate>Mon, 02 Sep 2024 00:23:29 GMT</pubDate></item><item><title><![CDATA[Week 5 (Sep 2 - Sep 6)]]></title><description><![CDATA[ 
+ <br><br>Today, further cutting tests will be performed to get the bottom layer holes to be as flat as possible, with as minimum residue of melted material as possible. ]]></description><link>Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).html</link><guid isPermaLink="false">Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).md</guid><pubDate>Mon, 02 Sep 2024 16:43:31 GMT</pubDate></item><item><title><![CDATA[Mario's Log for Thesis]]></title><description><![CDATA[ 
  <br><br>Hello, everyone.<br>This will be where I will be submitting and recording whatever I do everyday for my master's thesis project. More specifically, I will be recording the activities mainly for the experimental part (since the main thing of the theoretical part is code, so that is easier) unless stated otherwise: whenever I make relevant changes in the code (relevant means that it changes the result) I will describe them on the corresponding day.<br>I will be dividing this in weeks and in each week, it will be divided into the different days, including weekends in some situations, in case I just get an idea during those days. Otherwise, it will mainly be composed of Monday - Friday.<br>Ideas, thoughts and/or conclusions from activities will be in italics, as something to take into account for future related activities.<br>Any suggestions in the changes of format or arrangement are welcome.]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Tue, 27 Aug 2024 15:11:01 GMT</pubDate></item></channel></rss>
