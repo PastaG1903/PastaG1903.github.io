@@ -1,6 +1,6 @@
 {
-  "vaultName": "Thesis II",
-  "lastExport": 1731084309173,
+  "vaultName": "Thesis Log",
+  "lastExport": 1731680308777,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -20,7 +20,37 @@
     "Thesis II - 3rd semester/Week 12 (Oct 21 - Oct 25).md",
     "Thesis II - 3rd semester/Week 13 (Oct 28 - Nov 1).md",
     "Thesis II - 3rd semester/Week 14 (Nov 4 - Nov 8).md",
+    "Thesis II - 3rd semester/Week 15 (Nov 11 - Nov 15).md",
     "index.md",
+    "lib/media/whatsapp-image-2024-08-20-at-08.56.00.jpeg",
+    "lib/media/whatsapp-image-2024-08-20-at-12.04.24.jpeg",
+    "lib/media/whatsapp-image-2024-08-20-at-12.05.10.jpeg",
+    "lib/media/whatsapp-image-2024-08-20-at-08.42.08.jpeg",
+    "lib/media/whatsapp-image-2024-08-20-at-08.45.57.jpeg",
+    "lib/media/whatsapp-image-2024-08-20-at-08.43.59.jpeg",
+    "lib/media/pasted-image-20240908122413.png",
+    "lib/media/pasted-image-20240914132349.png",
+    "lib/media/pasted-image-20240914132625.png",
+    "lib/media/20240925_111547.jpg",
+    "lib/media/20240925_111712.jpg",
+    "lib/media/pamam_comp_cyl.png",
+    "lib/media/week-10-(oct-7-oct-11)-20241012231905083.webp",
+    "lib/media/week-10-(oct-7-oct-11)-20241012232301590.webp",
+    "lib/media/week-11-(oct-14-oct-18)-20241016163051655.webp",
+    "lib/media/20241017_121429.jpg",
+    "lib/media/20241017_121453.jpg",
+    "lib/media/20241017_121520.jpg",
+    "lib/media/20241021_134931.jpg",
+    "lib/media/20241022_132214.jpg",
+    "lib/media/week-12-(oct-21-oct-25)-20241028085405122.webp",
+    "lib/media/20241029_181430.jpg",
+    "lib/media/20241029_131922.jpg",
+    "lib/media/20241029_131945.jpg",
+    "lib/media/20241029_132008.jpg",
+    "lib/media/pasted-image-20241115072627.png",
+    "lib/media/membrane_size_sim.png",
+    "lib/media/channel_size_10.png",
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -35,30 +65,45 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/MathJax_Zero.woff",
-    "lib/fonts/MathJax_Main-Regular.woff",
-    "lib/fonts/MathJax_Main-Bold.woff",
-    "lib/fonts/MathJax_Math-Italic.woff",
-    "lib/fonts/MathJax_Main-Italic.woff",
-    "lib/fonts/MathJax_Math-BoldItalic.woff",
-    "lib/fonts/MathJax_Size1-Regular.woff",
-    "lib/fonts/MathJax_Size2-Regular.woff",
-    "lib/fonts/MathJax_Size3-Regular.woff",
-    "lib/fonts/MathJax_Size4-Regular.woff",
-    "lib/fonts/MathJax_AMS-Regular.woff",
-    "lib/fonts/MathJax_Calligraphic-Regular.woff",
-    "lib/fonts/MathJax_Calligraphic-Bold.woff",
-    "lib/fonts/MathJax_Fraktur-Regular.woff",
-    "lib/fonts/MathJax_Fraktur-Bold.woff",
-    "lib/fonts/MathJax_SansSerif-Regular.woff",
-    "lib/fonts/MathJax_SansSerif-Bold.woff",
-    "lib/fonts/MathJax_SansSerif-Italic.woff",
-    "lib/fonts/MathJax_Script-Regular.woff",
-    "lib/fonts/MathJax_Typewriter-Regular.woff",
-    "lib/fonts/MathJax_Vector-Regular.woff",
-    "lib/fonts/MathJax_Vector-Bold.woff"
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
   ],
   "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -73,340 +118,650 @@
     "lib/fonts/05b618077343fbbd92b7.ttf",
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
     "lib/media/874d8b8e340f75575caa.svg",
-    "lib/fonts/MathJax_Zero.woff",
-    "lib/fonts/MathJax_Main-Regular.woff",
-    "lib/fonts/MathJax_Main-Bold.woff",
-    "lib/fonts/MathJax_Math-Italic.woff",
-    "lib/fonts/MathJax_Main-Italic.woff",
-    "lib/fonts/MathJax_Math-BoldItalic.woff",
-    "lib/fonts/MathJax_Size1-Regular.woff",
-    "lib/fonts/MathJax_Size2-Regular.woff",
-    "lib/fonts/MathJax_Size3-Regular.woff",
-    "lib/fonts/MathJax_Size4-Regular.woff",
-    "lib/fonts/MathJax_AMS-Regular.woff",
-    "lib/fonts/MathJax_Calligraphic-Regular.woff",
-    "lib/fonts/MathJax_Calligraphic-Bold.woff",
-    "lib/fonts/MathJax_Fraktur-Regular.woff",
-    "lib/fonts/MathJax_Fraktur-Bold.woff",
-    "lib/fonts/MathJax_SansSerif-Regular.woff",
-    "lib/fonts/MathJax_SansSerif-Bold.woff",
-    "lib/fonts/MathJax_SansSerif-Italic.woff",
-    "lib/fonts/MathJax_Script-Regular.woff",
-    "lib/fonts/MathJax_Typewriter-Regular.woff",
-    "lib/fonts/MathJax_Vector-Regular.woff",
-    "lib/fonts/MathJax_Vector-Bold.woff"
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
   ],
   "fileInfo": {
+    "Thesis II - 3rd semester/LFA LOD improvement (secondary project).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 587,
+      "exportedPath": "thesis-ii-3rd-semester/lfa-lod-improvement-(secondary-project).html",
+      "dependencies": []
+    },
+    "Thesis II - 3rd semester/Week 2 (Aug 12 - Aug 16).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 3522,
+      "exportedPath": "thesis-ii-3rd-semester/week-2-(aug-12-aug-16).html",
+      "dependencies": []
+    },
+    "Thesis II - 3rd semester/Week 3 (Aug 19 - Aug 23).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 12528,
+      "exportedPath": "thesis-ii-3rd-semester/week-3-(aug-19-aug-23).html",
+      "dependencies": [
+        "lib/media/whatsapp-image-2024-08-20-at-08.56.00.jpeg",
+        "lib/media/whatsapp-image-2024-08-20-at-12.04.24.jpeg",
+        "lib/media/whatsapp-image-2024-08-20-at-12.05.10.jpeg",
+        "lib/media/whatsapp-image-2024-08-20-at-08.42.08.jpeg",
+        "lib/media/whatsapp-image-2024-08-20-at-08.45.57.jpeg",
+        "lib/media/whatsapp-image-2024-08-20-at-08.43.59.jpeg"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 4224,
+      "exportedPath": "thesis-ii-3rd-semester/week-4-(aug-26-aug-30).html",
+      "dependencies": []
+    },
+    "Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 4154,
+      "exportedPath": "thesis-ii-3rd-semester/week-5-(sep-2-sep-6).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240908122413.png"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 6 (Sep 9 - Sep 13).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 3261,
+      "exportedPath": "thesis-ii-3rd-semester/week-6-(sep-9-sep-13).html",
+      "dependencies": [
+        "lib/media/pasted-image-20240914132349.png",
+        "lib/media/pasted-image-20240914132625.png"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 7 (Sep 17 - Sep 20).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 1406,
+      "exportedPath": "thesis-ii-3rd-semester/week-7-(sep-17-sep-20).html",
+      "dependencies": []
+    },
+    "Thesis II - 3rd semester/Week 8 (Sep 23 - Sep 27).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 4353,
+      "exportedPath": "thesis-ii-3rd-semester/week-8-(sep-23-sep-27).html",
+      "dependencies": [
+        "lib/media/20240925_111547.jpg",
+        "lib/media/20240925_111712.jpg"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 9 (Sep 30 - Oct 4).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 1196,
+      "exportedPath": "thesis-ii-3rd-semester/week-9-(sep-30-oct-4).html",
+      "dependencies": [
+        "lib/media/pamam_comp_cyl.png"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 10 (Oct 7 - Oct 11).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 1325,
+      "exportedPath": "thesis-ii-3rd-semester/week-10-(oct-7-oct-11).html",
+      "dependencies": [
+        "lib/media/week-10-(oct-7-oct-11)-20241012231905083.webp",
+        "lib/media/week-10-(oct-7-oct-11)-20241012232301590.webp"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 11 (Oct 14 - Oct 18).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 3666,
+      "exportedPath": "thesis-ii-3rd-semester/week-11-(oct-14-oct-18).html",
+      "dependencies": [
+        "lib/media/week-11-(oct-14-oct-18)-20241016163051655.webp",
+        "lib/media/20241017_121429.jpg",
+        "lib/media/20241017_121453.jpg",
+        "lib/media/20241017_121520.jpg"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 12 (Oct 21 - Oct 25).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 2740,
+      "exportedPath": "thesis-ii-3rd-semester/week-12-(oct-21-oct-25).html",
+      "dependencies": [
+        "lib/media/20241021_134931.jpg",
+        "lib/media/20241022_132214.jpg",
+        "lib/media/week-12-(oct-21-oct-25)-20241028085405122.webp"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 13 (Oct 28 - Nov 1).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 2838,
+      "exportedPath": "thesis-ii-3rd-semester/week-13-(oct-28-nov-1).html",
+      "dependencies": [
+        "lib/media/20241029_181430.jpg",
+        "lib/media/20241029_131922.jpg",
+        "lib/media/20241029_131945.jpg",
+        "lib/media/20241029_132008.jpg"
+      ]
+    },
+    "Thesis II - 3rd semester/Week 14 (Nov 4 - Nov 8).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 1760,
+      "exportedPath": "thesis-ii-3rd-semester/week-14-(nov-4-nov-8).html",
+      "dependencies": []
+    },
+    "Thesis II - 3rd semester/Week 15 (Nov 11 - Nov 15).md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 2563,
+      "exportedPath": "thesis-ii-3rd-semester/week-15-(nov-11-nov-15).html",
+      "dependencies": [
+        "lib/media/pasted-image-20241115072627.png",
+        "lib/media/membrane_size_sim.png",
+        "lib/media/channel_size_10.png"
+      ]
+    },
+    "index.md": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 920,
+      "exportedPath": "index.html",
+      "dependencies": []
+    },
+    "lib/media/whatsapp-image-2024-08-20-at-08.56.00.jpeg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 43311,
+      "exportedPath": "lib/media/whatsapp-image-2024-08-20-at-08.56.00.jpeg",
+      "dependencies": []
+    },
+    "lib/media/whatsapp-image-2024-08-20-at-12.04.24.jpeg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 36580,
+      "exportedPath": "lib/media/whatsapp-image-2024-08-20-at-12.04.24.jpeg",
+      "dependencies": []
+    },
+    "lib/media/whatsapp-image-2024-08-20-at-12.05.10.jpeg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 21506,
+      "exportedPath": "lib/media/whatsapp-image-2024-08-20-at-12.05.10.jpeg",
+      "dependencies": []
+    },
+    "lib/media/whatsapp-image-2024-08-20-at-08.42.08.jpeg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 68194,
+      "exportedPath": "lib/media/whatsapp-image-2024-08-20-at-08.42.08.jpeg",
+      "dependencies": []
+    },
+    "lib/media/whatsapp-image-2024-08-20-at-08.45.57.jpeg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 26781,
+      "exportedPath": "lib/media/whatsapp-image-2024-08-20-at-08.45.57.jpeg",
+      "dependencies": []
+    },
+    "lib/media/whatsapp-image-2024-08-20-at-08.43.59.jpeg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 29287,
+      "exportedPath": "lib/media/whatsapp-image-2024-08-20-at-08.43.59.jpeg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240908122413.png": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 23103,
+      "exportedPath": "lib/media/pasted-image-20240908122413.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240914132349.png": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 7496,
+      "exportedPath": "lib/media/pasted-image-20240914132349.png",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20240914132625.png": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 10051,
+      "exportedPath": "lib/media/pasted-image-20240914132625.png",
+      "dependencies": []
+    },
+    "lib/media/20240925_111547.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 6761304,
+      "exportedPath": "lib/media/20240925_111547.jpg",
+      "dependencies": []
+    },
+    "lib/media/20240925_111712.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 6711135,
+      "exportedPath": "lib/media/20240925_111712.jpg",
+      "dependencies": []
+    },
+    "lib/media/pamam_comp_cyl.png": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 241907,
+      "exportedPath": "lib/media/pamam_comp_cyl.png",
+      "dependencies": []
+    },
+    "lib/media/week-10-(oct-7-oct-11)-20241012231905083.webp": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 4194,
+      "exportedPath": "lib/media/week-10-(oct-7-oct-11)-20241012231905083.webp",
+      "dependencies": []
+    },
+    "lib/media/week-10-(oct-7-oct-11)-20241012232301590.webp": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 3596,
+      "exportedPath": "lib/media/week-10-(oct-7-oct-11)-20241012232301590.webp",
+      "dependencies": []
+    },
+    "lib/media/week-11-(oct-14-oct-18)-20241016163051655.webp": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 6958,
+      "exportedPath": "lib/media/week-11-(oct-14-oct-18)-20241016163051655.webp",
+      "dependencies": []
+    },
+    "lib/media/20241017_121429.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 7460052,
+      "exportedPath": "lib/media/20241017_121429.jpg",
+      "dependencies": []
+    },
+    "lib/media/20241017_121453.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 8139045,
+      "exportedPath": "lib/media/20241017_121453.jpg",
+      "dependencies": []
+    },
+    "lib/media/20241017_121520.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 7993120,
+      "exportedPath": "lib/media/20241017_121520.jpg",
+      "dependencies": []
+    },
+    "lib/media/20241021_134931.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 4273292,
+      "exportedPath": "lib/media/20241021_134931.jpg",
+      "dependencies": []
+    },
+    "lib/media/20241022_132214.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 3210263,
+      "exportedPath": "lib/media/20241022_132214.jpg",
+      "dependencies": []
+    },
+    "lib/media/week-12-(oct-21-oct-25)-20241028085405122.webp": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 8338,
+      "exportedPath": "lib/media/week-12-(oct-21-oct-25)-20241028085405122.webp",
+      "dependencies": []
+    },
+    "lib/media/20241029_181430.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 2729983,
+      "exportedPath": "lib/media/20241029_181430.jpg",
+      "dependencies": []
+    },
+    "lib/media/20241029_131922.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 706277,
+      "exportedPath": "lib/media/20241029_131922.jpg",
+      "dependencies": []
+    },
+    "lib/media/20241029_131945.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 727915,
+      "exportedPath": "lib/media/20241029_131945.jpg",
+      "dependencies": []
+    },
+    "lib/media/20241029_132008.jpg": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 691284,
+      "exportedPath": "lib/media/20241029_132008.jpg",
+      "dependencies": []
+    },
+    "lib/media/pasted-image-20241115072627.png": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 13936,
+      "exportedPath": "lib/media/pasted-image-20241115072627.png",
+      "dependencies": []
+    },
+    "lib/media/membrane_size_sim.png": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 150642,
+      "exportedPath": "lib/media/membrane_size_sim.png",
+      "dependencies": []
+    },
+    "lib/media/channel_size_10.png": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 129496,
+      "exportedPath": "lib/media/channel_size_10.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1731084309173,
+      "modifiedTime": 1731680308777,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
-    "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1729117886454,
-      "sourceSize": 279,
-      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
-      "dependencies": []
-    },
-    "index.md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 920,
-      "exportedPath": "index.html",
-      "dependencies": []
-    },
-    "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 1368,
-      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 34160,
-      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 34464,
-      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 19360,
-      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 20832,
-      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 19776,
-      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 5792,
-      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 5464,
-      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 3244,
-      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 5148,
-      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 40808,
-      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 9600,
-      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 9908,
-      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 21480,
-      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 22340,
-      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 12660,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 15944,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 14628,
-      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 11852,
-      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 17604,
-      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 1136,
-      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
-    "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1731084309173,
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1731680308777,
       "sourceSize": 1116,
-      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/LFA LOD improvement (secondary project).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 587,
-      "exportedPath": "Thesis II - 3rd semester/LFA LOD improvement (secondary project).html",
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 7059,
+      "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 2 (Aug 12 - Aug 16).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 3522,
-      "exportedPath": "Thesis II - 3rd semester/Week 2 (Aug 12 - Aug 16).html",
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 3 (Aug 19 - Aug 23).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 12528,
-      "exportedPath": "Thesis II - 3rd semester/Week 3 (Aug 19 - Aug 23).html",
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 4224,
-      "exportedPath": "Thesis II - 3rd semester/Week 4 (Aug 26 - Aug 30).html",
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 4154,
-      "exportedPath": "Thesis II - 3rd semester/Week 5 (Sep 2 - Sep 6).html",
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 6 (Sep 9 - Sep 13).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 3261,
-      "exportedPath": "Thesis II - 3rd semester/Week 6 (Sep 9 - Sep 13).html",
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 7 (Sep 17 - Sep 20).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 1406,
-      "exportedPath": "Thesis II - 3rd semester/Week 7 (Sep 17 - Sep 20).html",
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 8 (Sep 23 - Sep 27).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 4353,
-      "exportedPath": "Thesis II - 3rd semester/Week 8 (Sep 23 - Sep 27).html",
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 9 (Sep 30 - Oct 4).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 1196,
-      "exportedPath": "Thesis II - 3rd semester/Week 9 (Sep 30 - Oct 4).html",
+    "lib/media/favicon.png": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 10 (Oct 7 - Oct 11).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 1325,
-      "exportedPath": "Thesis II - 3rd semester/Week 10 (Oct 7 - Oct 11).html",
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 1568,
+      "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 11 (Oct 14 - Oct 18).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 3666,
-      "exportedPath": "Thesis II - 3rd semester/Week 11 (Oct 14 - Oct 18).html",
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 131021,
+      "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 12 (Oct 21 - Oct 25).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 2740,
-      "exportedPath": "Thesis II - 3rd semester/Week 12 (Oct 21 - Oct 25).html",
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 236,
+      "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 13 (Oct 28 - Nov 1).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 2838,
-      "exportedPath": "Thesis II - 3rd semester/Week 13 (Oct 28 - Nov 1).html",
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
-    "Thesis II - 3rd semester/Week 14 (Nov 4 - Nov 8).md": {
-      "modifiedTime": 1731084309173,
-      "sourceSize": 1759,
-      "exportedPath": "Thesis II - 3rd semester/Week 14 (Nov 4 - Nov 8).html",
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1731680308777,
+      "sourceSize": 375,
+      "exportedPath": "lib/styles/snippets.css",
       "dependencies": []
     }
   }
